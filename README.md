@@ -51,7 +51,7 @@ npm run deploy
 This will deploy a live working version you can view in your browser on GitHub pages.  The link is below.
 
 ## Live Site
-https://mbborromeo.github.io/google-photos-viewer/
+https://rock-meister.github.io/google-photos-viewer/
 
 
 ## Git Source Management
