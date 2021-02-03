@@ -40,7 +40,7 @@ This will create a production version of the site to the `/build` directory
 
 ## Deploying to GitHub Pages
 
-In the package.json file, make sure the "homepage" property is set to the correct URL on GitHub pages which should match the nametag of your GitHub repository, "google-photos-viewer".  The homepage is currently set to https://mbborromeo.github.io/google-photos-viewer/.
+In the package.json file, make sure the "homepage" property is set to the correct URL on GitHub pages which should match the nametag of your GitHub repository, "google-photos-viewer".  The homepage is currently set to https://rock-meister.github.io/google-photos-viewer/.
 
 In your Git Bash terminal or command line, type in:
 
